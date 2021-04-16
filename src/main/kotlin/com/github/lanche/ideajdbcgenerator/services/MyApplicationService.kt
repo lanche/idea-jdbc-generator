@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lanche.ideajdbcgenerator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lanche.ideajdbcgenerator.MyBundle
 
 class MyApplicationService {
 
